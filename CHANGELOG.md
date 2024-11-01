@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.5.27](https://github.com/scratchfoundation/scratch-svg-renderer/compare/v2.5.26...v2.5.27) (2024-11-01)
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([267d61e](https://github.com/scratchfoundation/scratch-svg-renderer/commit/267d61e2d2b96606b22cbb9537cb613e36dd087e))
+* **deps:** update dependency scratch-render-fonts to v1.0.119 ([b1c851c](https://github.com/scratchfoundation/scratch-svg-renderer/commit/b1c851c375caa14c2ce3e97a1c5d4af1bc83efeb))
+
 ## [2.5.26](https://github.com/scratchfoundation/scratch-svg-renderer/compare/v2.5.25...v2.5.26) (2024-10-31)
 
 
