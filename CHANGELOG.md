@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.5.42](https://github.com/scratchfoundation/scratch-svg-renderer/compare/v2.5.41...v2.5.42) (2024-11-22)
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([90bea03](https://github.com/scratchfoundation/scratch-svg-renderer/commit/90bea0373e84ffaf6aad81e2333c9e8b7cd7ddeb))
+
 ## [2.5.41](https://github.com/scratchfoundation/scratch-svg-renderer/compare/v2.5.40...v2.5.41) (2024-11-21)
 
 
