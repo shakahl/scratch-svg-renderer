@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/scratchfoundation/scratch-svg-renderer/compare/v2.5.46...v3.0.0) (2024-11-25)
+
+
+* chore!: set license to AGPL-3.0-only ([5847eda](https://github.com/scratchfoundation/scratch-svg-renderer/commit/5847eda9285d3248fc763fd681ed1a88ee8a414e))
+
+
+### BREAKING CHANGES
+
+* This project is now licensed under the AGPL version 3.0
+
+See https://www.scratchfoundation.org/open-source-license
+
 ## [2.5.46](https://github.com/scratchfoundation/scratch-svg-renderer/compare/v2.5.45...v2.5.46) (2024-11-25)
 
 
